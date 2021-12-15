@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "portHolio_Gen",
   "version": "1.0.0",
   "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
   "main": "index.js",
@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Shman-Dee/portfolio-generator#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "materialize-css": "^1.0.0-rc.2"
   }
 }
